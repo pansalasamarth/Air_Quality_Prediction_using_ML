@@ -167,11 +167,6 @@ The repository includes scripts to visualize:
 1.  Gokulan Ravindiran, Gasim Hayder, Karthick Kanagarathinam, Avinash Alagumalai, Christian Sonne. "Air Quality Prediction by Machine Learning Models: A Predictive Study on the Indian Coastal City of Visakhapatnam." _Chemosphere_, 2023. [DOI: 10.1016/j.chemosphere.2023.139518] (https://doi.org/10.1016/j.chemosphere.2023.139518)
     
 2.  Central Pollution Control Board (CPCB), India.
-    
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
